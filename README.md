@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :office: Currently working at [Mercedes-Benz](https://www.mercedes-benz.com/).
-- :mailbox_with_no_mail: You can connect with me on [LinkedIn](https://github.com/redkites).
+- :mailbox_with_no_mail: You can connect with me on [LinkedIn](https://www.linkedin.com/in/sachin-revana-naik/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redkites&layout=compact&langs_count=5&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
